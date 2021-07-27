@@ -1,0 +1,342 @@
+* {
+    margin: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.nav-jpg {
+    display: inline-block;
+    width: 690px;
+    vertical-align: middle;
+}
+
+.nav-pages {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-list {
+    list-style-type: none;
+}
+
+.nav-list li {
+    display: inline-block;
+    padding: 0 15px;
+}
+
+/* navbor qism */
+
+/* menyu qism */
+.menyu {
+    width: 1000px;
+
+}
+
+.menyu-pages {
+    width: 550px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.menyu h2 {
+    margin-top: 80px;
+}
+
+.paragrp {
+    color: rgb(90, 86, 86);
+    margin: 25px 0;
+    text-align: justify;
+}
+
+.bootom {
+    margin-top: 50px;
+    border: 1px solid rgb(94, 90, 90);
+    border-radius: 25px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(72, 72, 202);
+
+}
+
+.imags {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+/*   asosiy qism    */
+.about {
+    width: 1000px;
+    display: inline-block;
+
+}
+
+.about-sarlavha h3 {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 25px 0;
+}
+
+.about hr {
+    width: 35px;
+    margin: 15px 480px;
+}
+
+.about p {
+    text-align: center;
+    color: rgb(85, 80, 80);
+}
+
+.box {
+    background-color: rgb(250, 243, 243);
+    border: 1px solid white;
+    width: 250px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.box-list {
+    list-style-type: none;
+    padding: 10px 10px;
+    display: inline-block;
+}
+
+.box-list img {
+    width: 65px;
+    height: 95px;
+}
+
+.box-list li {
+    margin: 10px 0;
+    font-family: sans-serif;
+}
+
+.li {
+    color: rgb(95, 85, 85);
+}
+
+/* About qism */
+/* menyu qism */
+.imags1 {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+.menyu-pages1 {
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+
+    margin-left: 80px;
+}
+
+.paragrp1 {
+    color: rgb(90, 86, 86);
+    margin: 25px 0;
+    text-align: justify;
+}
+
+.bootom1 {
+    margin-top: 50px;
+    border: 1px solid rgb(94, 90, 90);
+    border-radius: 25px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(72, 72, 202);
+
+}
+
+/* meyu qism */
+
+/* meyu qism2 */
+.menyu-pages2 {
+    width: 300px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 60px;
+}
+
+.paragrp2 {
+    color: rgb(90, 86, 86);
+    margin: 25px 0;
+    text-align: justify;
+}
+
+.bootom2 {
+    margin-top: 50px;
+    border: 1px solid rgb(94, 90, 90);
+    border-radius: 25px;
+    padding: 10px 15px;
+    color: white;
+    background-color: rgb(72, 72, 202);
+
+}
+
+.imags2 {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+/* meyu qism2 */
+
+/* shaxsiy malumot */
+
+.blok {
+    background-color: #67C3F3;
+    width: 850px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 50px auto;
+    display: inline-block;
+}
+
+.blok h3 {
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.blok hr {
+    width: 30px;
+    margin: 25px auto;
+    color: white;
+}
+
+.rasm {
+    width: 141px;
+    height: 141px;
+    vertical-align: middle;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 50px;
+}
+
+.bold {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+.matn {
+    display: inline-block;
+    width: 300px;
+    vertical-align: middle;
+    margin-left: 100px;
+    color: white;
+    font-family: sans-serif;
+}
+
+/* shaxsiy malumot */
+
+/* mijozlar */
+.mijoz {
+    margin: 50 auto;
+    width: 850px;
+    height: 300px;
+}
+
+.sarlavha1 {
+    text-align: center;
+}
+
+.sarlavha1 hr {
+    width: 35px;
+    margin: 25px auto;
+}
+
+.box-one {
+    width: 250px;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.box-one h4 {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.box-one p {
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(129, 124, 124);
+}
+
+.box-one b {
+    margin-left: 15px;
+    color: rgb(68, 68, 228);
+}
+
+/* mijozlar */
+.ul li {
+    margin: 160px auto;
+    border: 1px rgb(62, 117, 235) solid;
+    border-radius: 25px;
+
+    list-style-type: none;
+    color: rgb(127, 88, 235);
+    width: 80px;
+    height: 25px;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+/* futer qismi */
+.footer {
+    background-color: #67C3F3;
+}
+
+.oxiri {
+
+    width: 320px;
+    padding: 30px 25px;
+    display: inline-block;
+}
+
+.oxiri b {
+    border: 1px solid;
+    border-radius: 40%;
+    font-size: 25px;
+    background-color: white;
+    padding: 5px 5px;
+}
+
+span {
+    margin: 0 10px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.oxiri p {
+    color: white;
+    margin-top: 10px;
+}
+
+.royxat {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.royxat li {
+    list-style-type: none;
+    padding: 5px;
+    color: white;
+}
